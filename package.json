@@ -1,0 +1,23 @@
+{
+  "name": "CSVTOJSON",
+  "version": "1.0.0",
+  "description": "CSVTOJSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelaDanti/CSVTOJSON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SelaDanti/CSVTOJSON/issues"
+  },
+  "homepage": "https://github.com/SelaDanti/CSVTOJSON#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
